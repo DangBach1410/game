@@ -9,6 +9,8 @@ A C# console application that allows users to create and play geography quiz gam
 4. [Usage](#usage)
 5. [Technologies Used](#technologies-used)
 6. [Contributing](#contributing)
+7. [Class Diagram](#class-diagram)
+8. [Use Case Diagram](#use-case-diagram)
 
 ---
 
@@ -91,3 +93,9 @@ Contributions to the Geography Quiz Game are welcome! If you would like to contr
 1. Fork the repository.
 2. Create a new branch for your changes.
 3. Submit a pull request detailing your changes.
+
+
+## Class Diagram
+![Geography Quiz Logo](ClassDiagram.png)
+## Use Case Diagram
+![Geography Quiz Logo](UseCaseDiagram.png)
