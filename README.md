@@ -53,7 +53,7 @@ To run the Geography Quiz Game on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/geography-quiz-game.git
+   git clone https://github.com/DangBach1410/game
    ```
 2. Open the project in Visual Studio or any C# IDE.
 
