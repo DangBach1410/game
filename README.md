@@ -14,7 +14,7 @@ A C# console application that allows users to create and play geography quiz gam
 
 ---
 
-## ✨ Introduction
+## Introduction
 
 **Geography Quiz Game** is a Windows-based C# console application designed to test and improve your geography knowledge. It operates in two modes:
 
@@ -25,7 +25,7 @@ The application also supports user authentication, a default game mode with pre-
 
 ---
 
-## 🎁 Features
+## Features
 
 - **Create Mode**:
   - Add, edit, and delete questions.
@@ -47,7 +47,7 @@ The application also supports user authentication, a default game mode with pre-
 
 ---
 
-## 🛠 Installation
+## Installation
 
 To run the Geography Quiz Game on your local machine, follow these steps:
 
@@ -61,7 +61,7 @@ To run the Geography Quiz Game on your local machine, follow these steps:
 
 4. The application will launch in the console window.
 
-## 🎮 Usage
+## Usage
 
 ### Create Mode:
 - Add, edit, or delete questions by selecting options in the menu.
@@ -79,14 +79,14 @@ To run the Geography Quiz Game on your local machine, follow these steps:
 
 ---
 
-## 🏗 Technologies Used
+## Technologies Used
 
 - **C#**: Programming language used to build the console application.
 - **.NET Framework**: The framework that supports the development of the application on Windows.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions to the Geography Quiz Game are welcome! If you would like to contribute, please follow these steps:
 
@@ -94,8 +94,12 @@ Contributions to the Geography Quiz Game are welcome! If you would like to contr
 2. Create a new branch for your changes.
 3. Submit a pull request detailing your changes.
 
+---
 
 ## Class Diagram
 ![Geography Quiz Logo](ClassDiagram.png)
+
+---
+
 ## Use Case Diagram
 ![Geography Quiz Logo](UseCaseDiagram.png)
